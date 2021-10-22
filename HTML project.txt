@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>IMAGICA WORLD</title>
+   <body bgcolor="lightblue">
+</head>
+<body>
+
+    
+<h1><marquee>WEL COME IN IMAGICA WORLD!!!!</marquee></h1>
+
+
+<img src="2.jpg"
+"height="1500"width="1600">
+<a href="https://www.imagicaaworld.com/">BOOK YOUR FAVORATE</a>
+<p><h3>
+    The most loved water park located around Lonavala near Mumbai & Pune, themed on the beautiful city of Mykonos, 
+Greece has been a hot spot to cool off for all the metro Aquaphile all year long! Imagicaa Water Park offers some of the best never-before seen fulfilling water rides, 
+which blend in with the clean blue aqua experience.
+
+Guests heading to Imagicaa Water Park for a day, promises to be nothing short of aqua-zing!
+ You can ride your way to relax in the Lazy River or simply jump in with your friends & family into a unique body water slide called Splash.
+
+If that isn't enough challenge for your friends and yourself then a plunge down Loopy-Woopy's throat,
+is sure to set your pulse racing. A happy end to your day at the Water Park cannot be better than the ultimate wave pool experience.
+ The energetic aqua waves and the peppy music create an endearing vibe that will wrap you around wanting for more! Imagicaa Water
+
+Park is much loved for its complete international Water Park experience; 
+alongside the wide spread of sumptuous food and beverages served at multiple themed restaurants -that's sure to be a treat for your much craved post Aqua-fun hunger.
+ Not only that, the shopping retail outlets will definitely leave your loved ones and you spoilt for choice.
+
+Adjacent to Imagicaa Amusement Theme Park, Imagicaa Water Resorts finds itself enthroned happily uphill amidst the beautiful Sahyadri range unlike any other Water Park.
+
+For guests near Mumbai and Pune, various transportation modes are available to travel conveniently and reach Imagicaa Water Park, Khopoli that is closer from Lonavala too. 
+The best route though remains the Mumbai-Pune Express highway that offers an enjoyable, approximately 90 min drive to the destination.
+</p>
+<a href = "file:///E:/MACRO%20RECORDER/study%20extra/edubridge/HTML/registration.html"> Register Here </a>
+
+
+</body>
+</html>
